@@ -77,6 +77,8 @@ def save(df,path):
 def load_input(path,year,cache):
     p=cache/f'input_{year}.pkl'
     if p.exists():return pd.read_pickle(p)
+    if not path.exists():
+        path=path.parent/f'qa-{year}-input.xlsx'
     df=pd.read_excel(path,skiprows=[1],dtype={'Scode':str})
     df.insert(0,'source_row',np.arange(3,len(df)+3))
     df.insert(0,'year',year)

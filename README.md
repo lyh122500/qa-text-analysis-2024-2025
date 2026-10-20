@@ -21,7 +21,8 @@ Python 3.9，macOS/Linux：
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-# 从 Release 下载两份原始 Excel 与 sgns.financial.char.bz2，放进 inputs/
+# 从 Release 下载 qa-2024-input.xlsx、qa-2025-input.xlsx
+# 以及 sgns.financial.char.bz2，放进 inputs/
 python tools/run.py --inputs inputs --cache work/cache --workers 4
 ```
 
@@ -38,7 +39,7 @@ import pandas as pd
 result = pd.read_csv('01_readability/results/2024.csv.gz', dtype={'Scode': str})
 ```
 
-完整结果在 Release 中，包含全部原始字段与 12 个指标。`results/validation.json` 记录结果行数、指标范围及均值，`results/verification.json` 记录原脚本抽样复算及原字段核验。
+完整结果在 Release 中，分别为 `qa-2024-results.csv.gz`、`qa-2025-results.csv.gz`，包含全部原始字段与 12 个指标。`results/validation.json` 记录结果行数、指标范围及均值，`results/verification.json` 记录原脚本抽样复算及原字段核验。
 
 完成计算后，可执行 `python tools/verify.py --inputs inputs --cache work/cache` 复核。
 
