@@ -1,0 +1,146 @@
+{
+  "2024/01_readability": {
+    "rows": 473997,
+    "min": {
+      "Question_R1": 1.3333333333333333,
+      "Question_R2": 0.0,
+      "Question_R3": 0.6666666666666666,
+      "Answer_R1": 0.0,
+      "Answer_R2": 0.0,
+      "Answer_R3": 0.0
+    },
+    "max": {
+      "Question_R1": 227.0,
+      "Question_R2": 19.0,
+      "Question_R3": 115.5,
+      "Answer_R1": 546.0,
+      "Answer_R2": 24.0,
+      "Answer_R3": 285.0
+    },
+    "mean": {
+      "Question_R1": 28.258188434209096,
+      "Question_R2": 0.8551499695161207,
+      "Question_R3": 14.5566692018626,
+      "Answer_R1": 28.45154602346044,
+      "Answer_R2": 0.8532766262190374,
+      "Answer_R3": 14.652411324839736
+    }
+  },
+  "2024/02_sentiment": {
+    "rows": 473997,
+    "min": {
+      "Question_Pos": 0.0,
+      "Question_Neg": 0.0,
+      "Answer_Pos": 0.0,
+      "Answer_Neg": 0.0
+    },
+    "max": {
+      "Question_Pos": 0.6,
+      "Question_Neg": 0.5,
+      "Answer_Pos": 1.0,
+      "Answer_Neg": 0.5
+    },
+    "mean": {
+      "Question_Pos": 0.04413608155484912,
+      "Question_Neg": 0.012190267869776924,
+      "Answer_Pos": 0.060070912802119625,
+      "Answer_Neg": 0.006023385171417456
+    }
+  },
+  "2024/03_reply_quality": {
+    "rows": 473997,
+    "min": {
+      "quality_score": 0.0
+    },
+    "max": {
+      "quality_score": 1.0
+    },
+    "mean": {
+      "quality_score": 0.4646951110385904
+    }
+  },
+  "2024/05_repetition": {
+    "rows": 473997,
+    "min": {
+      "RepetitionScore": 0.0
+    },
+    "max": {
+      "RepetitionScore": 1.0
+    },
+    "mean": {
+      "RepetitionScore": 0.21395445540794555
+    }
+  },
+  "2025/01_readability": {
+    "rows": 214036,
+    "min": {
+      "Question_R1": 0.75,
+      "Question_R2": 0.0,
+      "Question_R3": 0.375,
+      "Answer_R1": 0.0,
+      "Answer_R2": 0.0,
+      "Answer_R3": 0.0
+    },
+    "max": {
+      "Question_R1": 219.0,
+      "Question_R2": 22.0,
+      "Question_R3": 114.0,
+      "Answer_R1": 324.0,
+      "Answer_R2": 16.0,
+      "Answer_R3": 163.0
+    },
+    "mean": {
+      "Question_R1": 29.36492152029537,
+      "Question_R2": 0.9234121330174715,
+      "Question_R3": 15.144166826656422,
+      "Answer_R1": 27.152338026228144,
+      "Answer_R2": 0.8262469032181627,
+      "Answer_R3": 13.989292464723153
+    }
+  },
+  "2025/02_sentiment": {
+    "rows": 214036,
+    "min": {
+      "Question_Pos": 0.0,
+      "Question_Neg": 0.0,
+      "Answer_Pos": 0.0,
+      "Answer_Neg": 0.0
+    },
+    "max": {
+      "Question_Pos": 0.6,
+      "Question_Neg": 0.5,
+      "Answer_Pos": 1.0,
+      "Answer_Neg": 0.3333333333333333
+    },
+    "mean": {
+      "Question_Pos": 0.04487622652837342,
+      "Question_Neg": 0.013880256085674376,
+      "Answer_Pos": 0.05797308948515045,
+      "Answer_Neg": 0.0061694807376170835
+    }
+  },
+  "2025/03_reply_quality": {
+    "rows": 214036,
+    "min": {
+      "quality_score": 0.0
+    },
+    "max": {
+      "quality_score": 1.0000000000000002
+    },
+    "mean": {
+      "quality_score": 0.45092946435463055
+    }
+  },
+  "2025/05_repetition": {
+    "rows": 214036,
+    "min": {
+      "RepetitionScore": 0.0
+    },
+    "max": {
+      "RepetitionScore": 1.0
+    },
+    "mean": {
+      "RepetitionScore": 0.2306727840176419
+    }
+  }
+}

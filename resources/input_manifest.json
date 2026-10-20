@@ -1,0 +1,42 @@
+{
+  "reply_quality.py": {
+    "bytes": 2597,
+    "sha256": "f60d1b98302ed0dbe12d4fa5a35a7a4aef7afabb10e2fd7bf500238ab1a177c4"
+  },
+  "文本分析小册子_20250109_rd.docx": {
+    "bytes": 332005,
+    "sha256": "6cce5aab5c34b8089ef2f9cf232db70d12e838c7e11fb1f4adec01828b15910d"
+  },
+  "sentiment.py": {
+    "bytes": 2064,
+    "sha256": "fe24c41397643dc49132a2c9fff9b3d27096e51cdc3b7468ed99538bb05fa7f3"
+  },
+  "diction.xlsx": {
+    "bytes": 153036,
+    "sha256": "0d2078ff28d2d38d3784a1c791c7efd220b5d9c40b46b2e358c0e6323ee384e4"
+  },
+  "RepetitionScore.py": {
+    "bytes": 2908,
+    "sha256": "eec9cae87924a3c3ddcca3f2ec985a404a97ab5a305bd3639946199d117129f1"
+  },
+  "readbility.py": {
+    "bytes": 1882,
+    "sha256": "8e1be741e12dd0e08e783f2dc4234a4cd422b46bd429d0cedf41014a2e7505d3"
+  },
+  "用户与公司问答-2024.xlsx": {
+    "bytes": 107089055,
+    "sha256": "620efd49c05f5a6be7a58cbc8c4663befb3a4fa87f4159766619f81722de8918"
+  },
+  "用户与公司问答-2025.xlsx": {
+    "bytes": 54625224,
+    "sha256": "384bee4a7e3357f2fc47bc88052cb75915ad58b3179ee94989b09f6b32b13137"
+  },
+  "sgns.financial.char.bz2": {
+    "bytes": 430403169,
+    "sha256": "ed2bebcea3f424d9e8859eee2bccf51a2c75e54fe8cb97e335c2756d53adae48"
+  },
+  "stopwords.txt": {
+    "bytes": 15187,
+    "sha256": "1c144202c3d05e3d5db1e7391ae1a0581d83dea95c5f4232430375f619ee7c1d"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "01_readability/results/2024.csv.gz": {
+    "bytes": 9264345,
+    "sha256": "dd228e794cc670608e83ac9c5b9312a19d7937f0d2192330216379e0a1be9d29"
+  },
+  "01_readability/results/2025.csv.gz": {
+    "bytes": 4181007,
+    "sha256": "809eff976c73ff7613a36986f6ad00a670ea11bcb1e9108654de3776b61f110a"
+  },
+  "02_sentiment/results/2024.csv.gz": {
+    "bytes": 8519806,
+    "sha256": "8f018fa859ccdaeaf7f04eee7094dbd9a8028d2e2f2feccc1ae97b3684aaa5ba"
+  },
+  "02_sentiment/results/2025.csv.gz": {
+    "bytes": 3885389,
+    "sha256": "b5e947db9796a52332bf87970045b08175963e47693f391ec526113eb6d421da"
+  },
+  "03_reply_quality/results/2024.csv.gz": {
+    "bytes": 9548680,
+    "sha256": "24fe7f709d9ef39d1cebddd4813f2b7a58666b6f7bebb6762ddf9e10af5e5c3e"
+  },
+  "03_reply_quality/results/2025.csv.gz": {
+    "bytes": 4253567,
+    "sha256": "e1c141dd75800a3a6b9a29fe59c10340a86f476527bec0d0882d70d1c8d36fe5"
+  },
+  "05_repetition/results/2024.csv.gz": {
+    "bytes": 5374231,
+    "sha256": "b3a28c9141aacf561c07e9de1c1e94d8650d3a7810cfa23f3cd28db1c0bed8f1"
+  },
+  "05_repetition/results/2025.csv.gz": {
+    "bytes": 2437205,
+    "sha256": "bdd61dbcb6560cfea0f03a172ef9cdc1918515c941a61bbdd19bfaa60b810610"
+  },
+  "results/用户与公司问答-2024_全部指标.csv.gz": {
+    "bytes": 82177324,
+    "sha256": "0fe03268560452f4598c970377259a6fb1f3dcc7f22f65ae761f255c5c7c34c6"
+  },
+  "results/用户与公司问答-2025_全部指标.csv.gz": {
+    "bytes": 38507515,
+    "sha256": "7d19d15367ba95afe101a976f735ed4d34a687b3211596d109a6a80013c068aa"
+  }
+}

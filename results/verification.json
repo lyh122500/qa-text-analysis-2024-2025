@@ -1,0 +1,19 @@
+{
+  "original_scripts_sha256": "all four match supplied files",
+  "2024": {
+    "rows": 473997,
+    "all_original_fields_preserved": true,
+    "all_four_outputs_match_full_result": true,
+    "original_readability_sentiment_script_sample_matches": 100,
+    "original_repetition_script_rows_checked": 4573,
+    "original_quality_function_sample_matches": 100
+  },
+  "2025": {
+    "rows": 214036,
+    "all_original_fields_preserved": true,
+    "all_four_outputs_match_full_result": true,
+    "original_readability_sentiment_script_sample_matches": 100,
+    "original_repetition_script_rows_checked": 2204,
+    "original_quality_function_sample_matches": 100
+  }
+}

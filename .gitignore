@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+work/
+inputs/
+*.bz2
+results/*全部指标.csv.gz
